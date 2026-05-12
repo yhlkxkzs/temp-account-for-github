@@ -1,0 +1,8 @@
+{
+  "schema": "afsa_form_registration_backup_v1",
+  "username": "yhlkxkzs",
+  "email": "1440651285@qq.com",
+  "password_sha256": "beba9f8098c4c458e948c0d89805bd201db0fdbdafbe403b1edd7118d775a33e",
+  "created_at": "2026-05-12T13:15:21.664746Z",
+  "_note": "Temporary registration backup while server unavailable; not for production auth verification."
+}
